@@ -1,0 +1,3 @@
+* game
+* movie
+* art
